@@ -15,6 +15,14 @@ Mac向けのKeynoteファイルと、PDFファイルが同梱されています�
 
 * lambda-tweet : AWS Lambda 経由でTwitterに投稿する関数
 
+## コントリビュートの仕方
+
+* 追加する内容をメモった [issueを立てる](https://github.com/jaws-ug/hands-on/issues/new) か、[WIP]でプルリクエストを生成（後者は上級者向け？）
+* Forkする！
+* 追加する機能のフィーチャーブランチを作る ``git checkout -b my-new-docs``
+* なにか作って、コミット ``git commit -m 'Add some new docs'``
+* pushする〜 ``git push origin my-new-docs``
+* プルリクエストを作成！
 
 ## Contributors
 
