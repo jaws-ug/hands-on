@@ -1,0 +1,14 @@
+{
+  "name": "lambda-weather",
+  "version": "1.0.0",
+  "description": "data source is http://weather.yahoo.co.jp/weather/rss/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K Nishijima",
+  "license": "MIT",
+  "dependencies": {
+    "feedparser": "^1.1.4"
+  }
+}
