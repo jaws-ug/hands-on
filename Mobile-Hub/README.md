@@ -6,10 +6,10 @@
 
 Mac向けのKeynoteファイルと、PDFファイルが同梱されています。各支部で利用するにあたって、ご自由に改変していただいて構いません。その際、ファイル名などを変更してプルリクエストしてもらえると嬉しいです。
 
-## プレゼン資料
+## ハンズオン資料
 
-* MobileHubHandsOn-Setup : 事前準備編
-* MobileHubHandsOn-Main : 本編
+* [MobileHubHandsOn-Setup](MobileHubHandsOn-Setup.pdf) : 事前準備編
+* [MobileHubHandsOn-Main](MobileHubHandsOn-Main.pdf) : 本編
 
 ## ソースコード
 
