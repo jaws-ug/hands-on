@@ -13,7 +13,8 @@ Mac向けのKeynoteファイルと、PDFファイルが同梱されています�
 
 ## ソースコード
 
-* lambda-tweet : AWS Lambda 経由でTwitterに投稿する関数
+* [lambda-tweet](https://github.com/jaws-ug/hands-on/tree/master/Mobile-Hub/lambda-tweet) : AWS Lambda 経由でTwitterに投稿する関数
+* [lambda-weather](https://github.com/jaws-ug/hands-on/tree/master/Mobile-Hub/lambda-weather) : AWS Lambda 経由で天気予報RSSを取得する関数
 
 ## コントリビュートの仕方
 
