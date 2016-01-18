@@ -16,6 +16,13 @@ Mac向けのKeynoteファイルと、PDFファイルが同梱されています�
 * [lambda-tweet](https://github.com/jaws-ug/hands-on/tree/master/Mobile-Hub/lambda-tweet) : AWS Lambda 経由でTwitterに投稿する関数
 * [lambda-weather](https://github.com/jaws-ug/hands-on/tree/master/Mobile-Hub/lambda-weather) : AWS Lambda 経由で天気予報RSSを取得する関数
 
+## 必要なIAM権限について
+
+限定された権限しかないアカウントでこのハンズオンを試す場合に、どの程度の権限があればいいかを調査して頂きました
+
+* [MobileHub Handsonで使用するアカウントに付与しとかないとハマる奴](https://gist.github.com/cloneko/082305f5855c13bc5392)
+
+
 ## コントリビュートの仕方
 
 * 追加する内容をメモった [issueを立てる](https://github.com/jaws-ug/hands-on/issues/new) か、[WIP]でプルリクエストを生成（後者は上級者向け？）
@@ -26,6 +33,8 @@ Mac向けのKeynoteファイルと、PDFファイルが同梱されています�
 * プルリクエストを作成！
 
 ## Contributors
+
+* [Yonashiro Yuu](https://github.com/cloneko)
 
 Originally authored by [Koichiro Nishijima](https://github.com/k-nishijima)
 
