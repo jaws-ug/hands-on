@@ -8,8 +8,8 @@ Mac向けのKeynoteファイルと、PDFファイルが同梱されています�
 
 ## ハンズオン資料
 
-* [MobileHubHandsOn-Setup](MobileHubHandsOn-Setup.pdf) : 事前準備編
-* [MobileHubHandsOn-Main](MobileHubHandsOn-Main.pdf) : 本編
+* [MobileHubHandsOn-Setup](https://github.com/jaws-ug/hands-on/raw/master/Mobile-Hub/MobileHubHandsOn-Setup.pdf) : 事前準備編
+* [MobileHubHandsOn-Main](https://github.com/jaws-ug/hands-on/raw/master/Mobile-Hub/MobileHubHandsOn-Main.pdf) : 本編
 
 ## ソースコード
 
